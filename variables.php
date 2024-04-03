@@ -11,7 +11,11 @@
         $altura = 1.72; 
         // Verdad o falso (Boolean)
         $mayorEdad = true;
-        
+        /*
+        Apellido y pais_de_origen estan mal. porque no empiezan con signo
+        de $
+        */
+
         ?>
     </body>
 </html>

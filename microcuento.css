@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:cornflowerblue;
+}
+h3{
+    text-align: center;
+    color:cornflowerblue;
+}
+.incorrecto{
+    color:red;
+    text-align: center;
+}
+
+.correcto{
+    color:green;
+    text-align: center;
+
+}
+section{
+
+    text-align: center;
+}
